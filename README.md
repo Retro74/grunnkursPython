@@ -1,0 +1,1 @@
+#Dette er en et svar på eksamen i IT6203 Grunnleggende programmering for lærer ved NTNU, Høst 2021 
